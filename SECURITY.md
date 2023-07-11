@@ -15,4 +15,4 @@ The following table shows which versions are supported or not:
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, [please submit an issue on our tracker](https://github.com/NASA-PDS/lasso-releasers/issues/new?template=vulnerability-issue.md).
+To report a vulnerability, [please submit an issue on our tracker](https://github.com/NASA-PDS/lasso-requirements/issues/new?template=vulnerability-issue.md).

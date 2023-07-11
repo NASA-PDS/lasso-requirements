@@ -7,5 +7,5 @@ For information on how to contribute to NASA-PDS codebases please take a look at
 Report a Bug or New Feature Request
 ===================================
 
-* `Report a Bug (working link TBD) <https://github.com/NASA-PDS/lasso-releasers/issues/new?template=bug_report.md>`_
-* `Report a New Feature (working link TBD) <https://github.com/NASA-PDS/lasso-releasers/issues/new?template=feature_request.md>`_
+* `Report a Bug (working link TBD) <https://github.com/NASA-PDS/lasso-requirements/issues/new?template=bug_report.md>`_
+* `Report a New Feature (working link TBD) <https://github.com/NASA-PDS/lasso-requirements/issues/new?template=feature_request.md>`_
