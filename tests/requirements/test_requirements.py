@@ -40,6 +40,10 @@ class MyTestCase(unittest.TestCase):
     #     requirements = Requirements('NASA-PDS', 'pds-doi-service', token=GITHUB_TOKEN, dev=True)
     #     requirements.write_requirements(root_dir='pdsen-corral', format='html')
 
+    def test_nothing(self):
+        """Placeholder to satisfy pytest until we can stub out services for real tests above."""
+        pass
+
 
 if __name__ == "__main__":
     unittest.main()
