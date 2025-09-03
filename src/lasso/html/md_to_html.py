@@ -1,8 +1,9 @@
 """Markdown to HTML."""
+import importlib.resources
+
 import emoji
 from jinja2 import Template
 from markdown2 import Markdown
-import importlib.resources
 
 
 def md_to_html(in_file, out_file, template_kargs):
